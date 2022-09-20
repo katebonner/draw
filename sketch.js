@@ -19,6 +19,7 @@ var angleDistortion = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  
 
   //INITIAL CONDITIONS
   background(0);
